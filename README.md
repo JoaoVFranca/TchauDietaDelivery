@@ -15,3 +15,10 @@
 ## Segurança das Senhas:
 
 > Utilizamos o pacote BCrypt.Net para assegurar a criptografia das senhas usadas no sistema de login.
+
+## Integrantes
+
+* Gabriel Henrique de Jesus Paiva
+* Natália Pereira da Silva
+* Carolina Alves Baião Pessoa
+* João Vitor de Souza França
