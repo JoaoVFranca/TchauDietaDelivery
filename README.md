@@ -1,4 +1,4 @@
-#Trabalho Prático de Algoritmos e Estruturas de Dados (AED)
+# Trabalho Prático de Algoritmos e Estruturas de Dados (AED)
 
 ## Aplicativo de Demonstração em Windows Forms e C#
 > Bem-vindo ao repositório do trabalho prático desenvolvido para a disciplina de Algoritmos e Estruturas de Dados (AED). Neste projeto, exploramos conceitos fundamentais da disciplina, aplicando-os na prática para criar um aplicativo Windows Forms usando a linguagem de programação C#.
