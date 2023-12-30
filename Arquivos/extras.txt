@@ -1,0 +1,10 @@
+Id=4;Nome=SUCOS VARIADOS;Preco=12;Imagem=sucos.jpg;
+Id=3;Nome=AGUA;Preco=5;Imagem=agua.jpg;
+Id=5;Nome=REFRIS LATA;Preco=7;Imagem=refris.jpg;
+Id=10;Nome=FRITAS COM PARMESAO;Preco=22;Imagem=batatanormal.jpg;
+Id=9;Nome=FRITAS C/ PROVOLONE;Preco=25;Imagem=batatacatupiry.jpg;
+Id=1;Nome=ENERGETICO;Preco=8;Imagem=ENERGETICOS.jpg;
+Id=2;Nome=CERVEJAS VARIADAS;Preco=13;Imagem=cerveja.jpg;
+Id=7;Nome=FRITAS C/ BACON;Preco=25;Imagem=batataebacon.jpg;
+Id=6;Nome=FRITAS PICANTE;Preco=28;Imagem=batatabaconrequeijao.jpg;
+Id=8;Nome=FRITAS C/ CARNE;Preco=35;Imagem=batatafrango.jpg;

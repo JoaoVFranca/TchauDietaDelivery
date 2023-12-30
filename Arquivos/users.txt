@@ -1,0 +1,5 @@
+Nome=carolina;Senha=$2a$11$rp93CGZ.jNKUYuwEZzFUVetEOlD0blv3begJngAImO7bSIDojIA6m;Celular=515151557875;Email=carolinaabpessoa@gmail.com;Rua=rua 22;Numero=5;Bairro=santa helena;Cidade=contagem;
+Nome=João;Senha=$2a$11$RldsNDf9j5eVI/TAMuyobO63fTXChIsWGiaeVWDC4DW6cEbjmJkLm;Celular=31999999999;Email=joao@gmail.com;Rua=Rua X;Numero=1;Bairro=Bairro Y;Cidade=Cidade Z;
+Nome=Gabriel Paiva;Senha=$2a$11$JtKKiFaDVVsa9mmGNcd.Feyj41CLD/ARLtQ2wBBq1s36o/hGYJQ8u;Celular=21991232199;Email=Gabriel@gmail.com;Rua=Rio madeira;Numero=222;Bairro=gloria;Cidade=Berlim;
+Nome=pedro;Senha=$2a$11$KsUeebXOzg1A3NiNX6kgHeFWk7W07aJur3Tc6I1PNHgBTi3OXT0mS;Celular=3199999999;Email=pedro@gmail.com;Rua=x;Numero=1;Bairro=y;Cidade=z;
+

@@ -1,0 +1,92 @@
+C:\Users\gpsca\Documents\trabalho aed\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\gpsca\Documents\trabalho aed\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\gpsca\Documents\trabalho aed\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\gpsca\Documents\trabalho aed\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\gpsca\Documents\trabalho aed\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\gpsca\Documents\trabalho aed\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\gpsca\Documents\trabalho aed\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\gpsca\Documents\trabalho aed\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\gpsca\Documents\trabalho aed\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\gpsca\Documents\trabalho aed\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\gpsca\Documents\trabalho aed\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CADASTRO.resources
+C:\Users\gpsca\Documents\trabalho aed\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\João França\Desktop\aed-2023-2-delivery-de-comida\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\João França\Desktop\aed-2023-2-delivery-de-comida\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\João França\Desktop\aed-2023-2-delivery-de-comida\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\João França\Desktop\aed-2023-2-delivery-de-comida\WindowsFormsApp1\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\João França\Desktop\aed-2023-2-delivery-de-comida\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\João França\Desktop\aed-2023-2-delivery-de-comida\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\João França\Desktop\aed-2023-2-delivery-de-comida\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\João França\Desktop\aed-2023-2-delivery-de-comida\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\João França\Desktop\aed-2023-2-delivery-de-comida\WindowsFormsApp1\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\João França\Desktop\aed-2023-2-delivery-de-comida\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\João França\Desktop\aed-2023-2-delivery-de-comida\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\João França\Desktop\aed-2023-2-delivery-de-comida\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\João França\Desktop\aed-2023-2-delivery-de-comida\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\João França\Desktop\aed-2023-2-delivery-de-comida\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\João França\Desktop\aed-2023-2-delivery-de-comida\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\João França\Desktop\aed-2023-2-delivery-de-comida\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CADASTRO.resources
+C:\Users\João França\Desktop\aed-2023-2-delivery-de-comida\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\João França\Desktop\aed-2023-2-delivery-de-comida\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\João França\Desktop\aed-2023-2-delivery-de-comida\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\João França\Desktop\aed-2023-2-delivery-de-comida\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\João França\Desktop\aed-2023-2-delivery-de-comida\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\João França\Desktop\aed-2023-2-delivery-de-comida\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\João França\Desktop\aed-2023-2-delivery-de-comida\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\carol\trabalho aed\aed-2023-2-delivery-de-comida\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\carol\trabalho aed\aed-2023-2-delivery-de-comida\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\carol\trabalho aed\aed-2023-2-delivery-de-comida\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\carol\trabalho aed\aed-2023-2-delivery-de-comida\WindowsFormsApp1\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\carol\trabalho aed\aed-2023-2-delivery-de-comida\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\carol\trabalho aed\aed-2023-2-delivery-de-comida\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\carol\trabalho aed\aed-2023-2-delivery-de-comida\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\carol\trabalho aed\aed-2023-2-delivery-de-comida\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\carol\trabalho aed\aed-2023-2-delivery-de-comida\WindowsFormsApp1\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\carol\trabalho aed\aed-2023-2-delivery-de-comida\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\carol\trabalho aed\aed-2023-2-delivery-de-comida\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\carol\trabalho aed\aed-2023-2-delivery-de-comida\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\carol\trabalho aed\aed-2023-2-delivery-de-comida\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\carol\trabalho aed\aed-2023-2-delivery-de-comida\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\carol\trabalho aed\aed-2023-2-delivery-de-comida\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\carol\trabalho aed\aed-2023-2-delivery-de-comida\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CADASTRO.resources
+C:\Users\carol\trabalho aed\aed-2023-2-delivery-de-comida\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\carol\trabalho aed\aed-2023-2-delivery-de-comida\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\carol\trabalho aed\aed-2023-2-delivery-de-comida\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\carol\trabalho aed\aed-2023-2-delivery-de-comida\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\carol\trabalho aed\aed-2023-2-delivery-de-comida\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\carol\trabalho aed\aed-2023-2-delivery-de-comida\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\carol\trabalho aed\aed-2023-2-delivery-de-comida\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\carol\trabalho aed\aed-2023-2-delivery-de-comida\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\João França\Desktop\aed-2023-2-delivery-de-comida\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+<<<<<<< HEAD
+C:\Users\gabri\Source\Repos\aed-2023-2-delivery-de-comida\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\gabri\Source\Repos\aed-2023-2-delivery-de-comida\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\gabri\Source\Repos\aed-2023-2-delivery-de-comida\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\gabri\Source\Repos\aed-2023-2-delivery-de-comida\WindowsFormsApp1\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\gabri\Source\Repos\aed-2023-2-delivery-de-comida\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\gabri\Source\Repos\aed-2023-2-delivery-de-comida\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\gabri\Source\Repos\aed-2023-2-delivery-de-comida\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\gabri\Source\Repos\aed-2023-2-delivery-de-comida\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gabri\Source\Repos\aed-2023-2-delivery-de-comida\WindowsFormsApp1\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\gabri\Source\Repos\aed-2023-2-delivery-de-comida\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\gabri\Source\Repos\aed-2023-2-delivery-de-comida\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\gabri\Source\Repos\aed-2023-2-delivery-de-comida\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\gabri\Source\Repos\aed-2023-2-delivery-de-comida\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\gabri\Source\Repos\aed-2023-2-delivery-de-comida\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\gabri\Source\Repos\aed-2023-2-delivery-de-comida\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\gabri\Source\Repos\aed-2023-2-delivery-de-comida\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CADASTRO.resources
+C:\Users\gabri\Source\Repos\aed-2023-2-delivery-de-comida\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\gabri\Source\Repos\aed-2023-2-delivery-de-comida\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\gabri\Source\Repos\aed-2023-2-delivery-de-comida\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+C:\Users\gabri\Source\Repos\aed-2023-2-delivery-de-comida\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\gabri\Source\Repos\aed-2023-2-delivery-de-comida\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\gabri\Source\Repos\aed-2023-2-delivery-de-comida\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Source\Repos\aed-2023-2-delivery-de-comida\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\gabri\Source\Repos\aed-2023-2-delivery-de-comida\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\gabri\Source\Repos\aed-2023-2-delivery-de-comida\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+=======
+C:\Users\carol\trabalho aed\aed-2023-2-delivery-de-comida\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+>>>>>>> 5d48b944a5e0f34bbfcd19934418a2a2c8f6c727
+C:\Users\João França\Desktop\aed-2023-2-delivery-de-comida\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+C:\Users\João França\Desktop\aed-2023-2-delivery-de-comida\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form6.resources
+C:\Users\João França\Desktop\aed-2023-2-delivery-de-comida\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormHandler.resources
