@@ -10,10 +10,7 @@
 
 ## Conceitos de AED Implementados:
 
-> Listas Encadeadas
-> Árvores Binárias
-> Métodos de Ordenação
-> Leitura e Escrita de Arquivos
+> Listas Encadeadas, Árvores Binárias, Métodos de Ordenação, Leitura e Escrita de Arquivos.
 
 ## Segurança das Senhas:
 
