@@ -4,7 +4,7 @@
 > Bem-vindo ao repositório do trabalho prático desenvolvido para a disciplina de Algoritmos e Estruturas de Dados (AED). Neste projeto, exploramos conceitos fundamentais da disciplina, aplicando-os na prática para criar um aplicativo Windows Forms usando a linguagem de programação C#.
 
 ## Sobre o Projeto
-> O projeto consiste em um aplicativo desenvolvido para fins acadêmicos, visando a prática de conceitos abordados em Algoritmos e Estruturas de Dados. Abaixo estão alguns dos principais aspectos do projeto:
+> O projeto consiste em um aplicativo desenvolvido para fins acadêmicos, visando a prática de conceitos abordados em Algoritmos e Estruturas de Dados.
 
 > Tecnologia Utilizada: Windows Forms (C#)
 
