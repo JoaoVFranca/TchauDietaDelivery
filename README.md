@@ -16,6 +16,10 @@
 
 > Utilizamos o pacote BCrypt.Net para assegurar a criptografia das senhas usadas no sistema de login.
 
+## Como executar:
+
+> Para rodar o app, basta executar o arquivo localizado em TchauDietaDelivery/bin/Debug/WindowsFormsApp1.exe, ou abrir o arquivo .sln pelo Visual Studio.
+
 ## Integrantes
 
 * Gabriel Henrique de Jesus Paiva
